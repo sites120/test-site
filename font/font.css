@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Terminator-Genisys';
+    src:url('Terminator-Genisys.ttf.woff') format('woff'),
+        url('Terminator-Genisys.ttf.svg#Terminator-Genisys') format('svg'),
+        url('Terminator-Genisys.ttf.eot'),
+        url('Terminator-Genisys.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}

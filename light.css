@@ -1,0 +1,65 @@
+.container-out {
+    background-color: #fff;
+
+
+}
+h1, span, a{
+    color: #000;
+}
+.second-block{
+    background: #f7f7f7;
+}
+.telegramm{
+    background: url(img/tgbl.png);
+}
+.fsth1{
+    color: #000;
+}
+.bord1::before{
+    background: #e5e5e5;
+}
+.p__wh{
+    color: #000;
+}
+
+
+.content1__inner{
+    background: #fff;
+}
+.content1__inner:hover .content-wrap {
+    background-color: #fff;
+    border: 8px solid #a2008c;
+}
+.number1{
+    color: #e5e5e5;
+}
+.content1__inner:hover .number1 {
+    color: #e5e5e5;
+}
+.tabs {
+
+color: #000;
+}
+
+.tabs > input[type="radio"]:checked + label {
+    color: #808080;
+}
+.white2{
+    color: #fff !important;
+}
+.button-link span,
+.button-link2 span{
+    color: #fff;
+}
+.text-block3{
+    background: #fff;
+}
+.textbg-wh{
+    background: #f7f7f7;
+}
+.burger span {
+    color: #fff;
+}
+.burger2 span {
+    color: #fff;
+}
